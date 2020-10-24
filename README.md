@@ -1,4 +1,4 @@
 
 
-# Daniil-Zhuk.github.io
+# Daniil-Zhuk
 Learning Web-programming
